@@ -18,3 +18,15 @@ body {
     background-image: url('http://wp1.themexlab.com/wp/cards/wp-content/themes/cards/img/bg-card2.png');
 }
 
+.image {
+    margin-top: 30px;
+    width: 50%;
+    height: 200px;
+    background-image: url("images/azer_shukurlu.png");
+    background-size: cover;
+    object-fit: contain;
+    background-repeat: no-repeat;
+    background-position: top;
+    border-radius: 50%;
+    border: 6px solid #ddd;
+}
