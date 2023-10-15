@@ -1,3 +1,20 @@
 * {
     box-sizing: border-box;
 }
+
+body {
+    background-color: #23252C;
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    box-sizing: border-box;
+}
+
+.digital-business-card {
+    width: 500px;
+    min-width: 300px;
+    margin: 50px auto;
+    border-radius: 7px;
+    background-color: #f4f4f4;
+    background-image: url('http://wp1.themexlab.com/wp/cards/wp-content/themes/cards/img/bg-card2.png');
+}
+
