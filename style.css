@@ -3,7 +3,7 @@
 }
 
 body {
-    background-color: #23252C;
+    background-image: url('images/bg_image.jpg');
     color: white;
     font-family: "Montserrat", sans-serif;
     box-sizing: border-box;
@@ -18,6 +18,7 @@ body {
     background-image: url('http://wp1.themexlab.com/wp/cards/wp-content/themes/cards/img/bg-card2.png');
 }
 
+
 .image {
     margin-top: 30px;
     width: 50%;
@@ -29,4 +30,20 @@ body {
     background-position: top;
     border-radius: 50%;
     border: 6px solid #ddd;
+}
+
+.main-content {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.big-heading {
+    color: black;
+}
+
+.azer-card-full-name
+{
+    color: #08aeac;
 }
